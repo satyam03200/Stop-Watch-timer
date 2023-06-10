@@ -1,0 +1,19 @@
+body{
+    font: Arial;
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+div{
+    text-align: center;
+    font-size: 50px;
+}
+button{
+    color: black;
+    padding: 15px;
+    border-radius: 10px;
+    width: 70px;
+}
